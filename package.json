@@ -1,0 +1,16 @@
+{
+  "name": "bonda",
+  "version": "1.0.0",
+  "description": "A utility library with string, array, math, and object helpers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Kalyan-Bonda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
